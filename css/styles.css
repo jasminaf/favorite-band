@@ -2,6 +2,10 @@ html {
   background-image: url("../img/urban4.jpg");
   background-size: 100%;
 }
+h1 {
+ color: white;
+ font-style: oblique;
+}
 .history {
   color: white;
   width: 68%;
@@ -13,13 +17,18 @@ html {
   float: right;
 }
 .albums {
-  color: white;
+  color: black;
   font-family: sans-serif;
   float: left;
+  margin: 12px;
+  border: 5px solid white;
+  padding: 5px;
+  background-color: grey;
 }
 .photos {
   width: 28%;
   float: left;
+  padding: 5%;
 }
 .photos img {
   width: 100%;
