@@ -1,0 +1,29 @@
+html {
+  background-image: url("../img/urban4.jpg");
+  background-size: 100%;
+}
+.history {
+  color: white;
+  width: 68%;
+  float: left;
+  font-family: sans-serif;
+}
+.sidebar {
+  color: white;
+  float: right;
+}
+.albums {
+  color: white;
+  font-family: sans-serif;
+  float: left;
+}
+.photos {
+  width: 28%;
+  float: left;
+}
+.photos img {
+  width: 100%;
+}
+h1 {
+  text-align: center;
+}
